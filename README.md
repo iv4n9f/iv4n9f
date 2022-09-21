@@ -6,7 +6,7 @@
   - Discord -> iv4n9f#9056
   - E-mail -> iv4n9f@gmail.com
 - Technologies :
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
