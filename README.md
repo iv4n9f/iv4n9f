@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-<p align="center">
+<p align="center" margin-left="20px">
   iv4n9f#9056
 </p>
 <p align="center">
