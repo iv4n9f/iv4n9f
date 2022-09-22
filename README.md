@@ -10,8 +10,6 @@
 ![Job-Info](https://img.shields.io/badge/Job-Searching-green)
 ![Job-Info](https://img.shields.io/badge/Position-FullStackDeveloper-blue)
 
-</span>
-
 <h3 align="center"> Contact </h3>
 
 ![Contact-Info](https://img.shields.io/badge/Discord-iv4n9f_9056-green)
@@ -19,4 +17,4 @@
 
 <h3 align="center"> Technologies </h3>
 
-
+</span>
