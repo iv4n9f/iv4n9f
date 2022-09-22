@@ -24,5 +24,29 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
 </p>
+  
+<h5> Version Control </h5>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+  
+<h5> System </h5>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
+  
+<h5> Personal </h5>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=blender,unity,unreal,ps,xd" />
+  </a>
+</p>
 
 </span>
