@@ -1,28 +1,4 @@
-- 👋 Hi, I’m @iv4n9f
-- 👀 I’m interested in FullStack Developing / Linux / Systems & Networking
-- 🌱 I’m currently learning FullStack Developing
-- 💞️ I’m looking to collaborate on developing proyects to learn more about the technologies
-- 📫 How to reach me :
-  - Discord -> iv4n9f#9056
-  - E-mail -> iv4n9f@gmail.com
-- Technologies :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
-<p align="center" margin-left="20px">
-  <a href="">
-    iv4n9f#9056
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,linux" />
-  </a>
-</p>
+<h1 align="center"> Ivan Garcia Fernandez </h1>
 
-<!---
-iv4n9f/iv4n9f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![DisplayImage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.huawei.com%2Fconsumer%2Fen%2Fdevelop%2F&psig=AOvVaw0L7WXm47oEb3VthWwfjkxH&ust=1663891271859000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFrpaMp_oCFQAAAAAdAAAAABAD)
+
