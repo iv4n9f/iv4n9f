@@ -16,5 +16,13 @@
 ![Contact-Info](https://img.shields.io/badge/EMail-iv4n9f@gmail.com-green)
 
 <h3 align="center"> Technologies </h3>
+  
+<h5> Develope </h5>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+  </a>
+</p>
 
 </span>
