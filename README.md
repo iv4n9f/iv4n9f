@@ -4,12 +4,19 @@
 
 <h3 align="center"> Work </h3>
 
-![Badge en Desarollo](https://img.shields.io/badge/Developer-iv4n9f-blueviolet)
-![Badge en Desarollo](https://img.shields.io/badge/Job-Searching-green)
-![Badge en Desarollo](https://img.shields.io/badge/Position-FullStackDeveloper-blue)
+<span align="center">
+
+![Job-Info](https://img.shields.io/badge/Developer-iv4n9f-blueviolet)
+![Job-Info](https://img.shields.io/badge/Job-Searching-green)
+![Job-Info](https://img.shields.io/badge/Position-FullStackDeveloper-blue)
+
+</span>
 
 <h3 align="center"> Contact </h3>
 
-![Badge en Desarollo](https://img.shields.io/badge/Discord-iv4n9f#9056-green)
+![Contact-Info](https://img.shields.io/badge/Discord-iv4n9f_9056-green)
+![Contact-Info](https://img.shields.io/badge/EMail-iv4n9f@gmail.com-green)
+
+<h3 align="center"> Technologies </h3>
 
 
