@@ -7,6 +7,6 @@
 
 <h3 aligh="center"> Projects </h3>
 
-- https://github.com/iv4n9f/dskcfg
-- https://github.com/iv4n9f/archdefault
+- [] https://github.com/iv4n9f/dskcfg
+- [] https://github.com/iv4n9f/archdefault
 -
