@@ -20,7 +20,7 @@
 - [x] Java
 - [x] Javascript
       
-<h3 align="center"> Technologies </h3>
+<h3 align="center"> Projects </h3>
 
 - [x] [Kali Linux Environment Configuration](https://github.com/iv4n9f/dskcfg)
 - [x] [Arch Linux Environment Configuration](https://github.com/iv4n9f/archdefault)
