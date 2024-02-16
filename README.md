@@ -7,6 +7,6 @@
 
 <h3 aligh="center"> Projects </h3>
 
-- [x] https://github.com/iv4n9f/dskcfg
-- [ ] https://github.com/iv4n9f/archdefault
--
+- [x] [Kali Linux Environment Configuration](https://github.com/iv4n9f/dskcfg)
+- [x] [Arch Linux Environment Configuration](https://github.com/iv4n9f/archdefault)
+- [ ] Debian Linux Environment Configuration
