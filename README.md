@@ -6,6 +6,7 @@
 
 
 <h3 aligh="center"> Projects </h3>
--[x] #739
--[ ] https://github.com/octo-org/octo-repo/issues/740
--[ ] Add delight to the experience when all tasks are complete :tada:
+
+- https://github.com/iv4n9f/dskcfg
+- https://github.com/iv4n9f/archdefault
+-
