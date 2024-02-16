@@ -6,5 +6,5 @@
 
 
 <h3 aligh="center"> Projects </h3>
-- [x] https://github.com/iv4n9f/dskcfg
-- [x] https://github.com/iv4n9f/archDefault
+- [x] \https://github.com/iv4n9f/dskcfg
+- [x] \https://github.com/iv4n9f/archDefault
