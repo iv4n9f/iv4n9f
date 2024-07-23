@@ -1,8 +1,11 @@
 <h1 align="center"> Ivan Garcia Fernandez </h1>
 <h2 align="center"> Multiplatform Software Developer | Systems & Network Technician </h2>
 
-> [!INFORMATION]
+> [!NOTE]
 > All of this information may change over time. For any questions, you can contact me in the contact section.
+
+> [!IMPORTANT]
+> Non-checked technologies are in process
 
 <h3 align="center"> Technologies </h3>
 <h4> Networking & Switching </h4>
