@@ -1,7 +1,7 @@
 <h1 align="center"> Ivan Garcia Fernandez </h1>
-<h2 align="center"> Multiplatform Application Developer | Systems & Network Technician </h2>
+<h2 align="center"> Multiplatform Software Developer | Systems & Network Technician </h2>
 
-> [!NOTE]
+> [!INFORMATION]
 > All of this information may change over time. For any questions, you can contact me in the contact section.
 
 <h3 align="center"> Technologies </h3>
@@ -19,10 +19,33 @@
       
 <h4> Programing Languages </h4>
 
-- [x] Python
 - [x] Java
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Go
+
+<h4> Scripting Languages </h4>
+
 - [x] Javascript
+- [x] Python
+- [x] Powershell
+- [x] Bash
+- [ ] Php
+- [ ] Perl
+- [ ] Lua
+
+<h4> Other Languages / Technologies </h4>
+
+- [x] HTML5
+- [x] CSS
+- [x] JSON
       
 <h3 align="center"> Projects </h3>
 
 - [ ] [Linux Environment Configuration](https://github.com/iv4n9f/essw0000cf)
+
+<h3 align="center"> Contact </h3>
+
+- [x] [Discord](https://discord.com/users/iv4n9f)
+- [x] [Mail](mailto:iv4n9f@gmail.com)
