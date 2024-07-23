@@ -50,5 +50,5 @@
 
 <h3 align="center"> Contact </h3>
 
-- [x] [Discord](https://discord.com/users/iv4n9f)
+- [ ] [Discord](https://discord.com/users/iv4n9f)
 - [x] [Mail](mailto:iv4n9f@gmail.com)
