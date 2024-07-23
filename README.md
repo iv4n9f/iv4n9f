@@ -23,6 +23,7 @@
 <h4> Programing Languages </h4>
 
 - [x] Java
+- [x] Kotlin
 - [ ] C
 - [ ] C++
 - [ ] C#
