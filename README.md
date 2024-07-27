@@ -36,6 +36,7 @@
 - [x] Python
 - [x] Powershell
 - [x] Bash
+- [X] Zsh
 - [ ] Php
 - [ ] Perl
 - [ ] Lua
