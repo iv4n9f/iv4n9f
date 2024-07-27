@@ -28,6 +28,7 @@
 - [ ] C++
 - [ ] C#
 - [ ] Go
+- [ ] Assembler 
 
 <h4> Scripting Languages </h4>
 
