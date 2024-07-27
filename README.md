@@ -15,10 +15,8 @@
       
 <h4> Systems </h4>
 
-- [x] Debian Based Linux
-- [x] Arch Linux
-- [X] Red Hat Linux
-- [ ] Windows Server
+- [x] Debian Based Linux        - [x] Arch Linux
+- [X] Red Hat Linux             - [ ] Windows Server
       
 <h4> Programing Languages </h4>
 
