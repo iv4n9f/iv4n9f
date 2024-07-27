@@ -39,12 +39,15 @@
 - [ ] Php
 - [ ] Perl
 - [ ] Lua
+- [ ] TypeScript
 
 <h4> Other Languages / Technologies </h4>
 
 - [x] HTML5
 - [x] CSS
 - [x] JSON
+- [ ] XML
+- [ ] LaTex
       
 <h3 align="center"> Projects </h3>
 
