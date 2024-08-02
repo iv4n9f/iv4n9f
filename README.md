@@ -2,7 +2,7 @@
 <h2 align="center"> Multiplatform Software Developer | Systems & Network Technician </h2>
 
 ![Author](https://img.shields.io/badge/author-iv4n9f-purple)
-![Version](https://img.shields.io/badge/version-rolling-realease-green)
+![Version](https://img.shields.io/badge/version-rolling_realease-green)
 ![Version](https://img.shields.io/badge/language-markup_language-blue)
 ![Version](https://img.shields.io/badge/status-working_on_it-yellow)
 
