@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-Rolling-green?style=plastic&logo=git&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Markup-blue?style=plastic&logo=stackedit&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Working-yellow?style=plastic&logo=lineageos&logoColor=white)
+![License](https://img.shields.io/badge/License-OpenSource-yellow?style=plastic&logo=creativecommons&logoColor=white)
 
 > [!NOTE]
 > All of this information may change over time. For any questions, you can contact me in the contact section.
