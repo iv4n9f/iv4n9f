@@ -15,38 +15,40 @@
       
 <h4> Systems </h4>
 
-- [x] Debian Based Linux        - [x] Arch Linux
-- [X] Red Hat Linux             - [ ] Windows Server
+- [x] ![Systems](https://skillicons.dev/icons?i=debian) Debian Based Linux    
+- [x] ![Systems](https://skillicons.dev/icons?i=arch)   Arch Linux    
+- [X] ![Systems](https://skillicons.dev/icons?i=redhat)   Red Hat Linux             
+- [ ] ![Systems](https://skillicons.dev/icons?i=windows) Windows Server
       
 <h4> Programing Languages </h4>
 
-- [x] Java
-- [x] Kotlin
-- [ ] C
-- [ ] C++
-- [ ] C#
-- [ ] Go
+- [x] ![Programing](https://skillicons.dev/icons?i=java)    Java
+- [x] ![Programing](https://skillicons.dev/icons?i=kotlin)    Kotlin
+- [ ] ![Programing](https://skillicons.dev/icons?i=c)    C
+- [ ] ![Programing](https://skillicons.dev/icons?i=cpp)    C++
+- [ ] ![Programing](https://skillicons.dev/icons?i=cs)    C#
+- [ ] ![Programing](https://skillicons.dev/icons?i=go)    Go
 - [ ] Assembler 
 
 <h4> Scripting Languages </h4>
 
-- [x] Javascript
-- [x] Python
+- [x] ![Scripting](https://skillicons.dev/icons?i=js) Javascript
+- [x] ![Scripting](https://skillicons.dev/icons?i=py) Python
 - [x] Powershell
-- [x] Bash
+- [x] ![Scripting](https://skillicons.dev/icons?i=bash) Bash
 - [X] Zsh
-- [ ] Php
-- [ ] Perl
-- [ ] Lua
-- [ ] TypeScript
+- [ ] ![Scripting](https://skillicons.dev/icons?i=php) Php
+- [ ] ![Scripting](https://skillicons.dev/icons?i=perl) Perl
+- [ ] ![Scripting](https://skillicons.dev/icons?i=lua) Lua
+- [ ] ![Scripting](https://skillicons.dev/icons?i=ts) TypeScript
 
 <h4> Other Languages / Technologies </h4>
 
-- [x] HTML5
-- [x] CSS
+- [x] ![Other](https://skillicons.dev/icons?i=html) HTML5
+- [x] ![Other](https://skillicons.dev/icons?i=css) CSS
 - [x] JSON
 - [ ] XML
-- [ ] LaTex
+- [ ] ![Other](https://skillicons.dev/icons?i=latex) LaTex
       
 <h3 align="center"> Projects </h3>
 
@@ -54,6 +56,6 @@
 
 <h3 align="center"> Contact </h3>
 
-- [x] [Mail](mailto:iv4n9f@gmail.com)
-- [x] [Linkedin](https://www.linkedin.com/in/iv4n9f/)
-- [ ] [Discord](https://discord.com/users/iv4n9f)
+- [x] [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:iv4n9f@gmail.com)
+- [x] [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iv4n9f/)
+- [ ] [![Linkedin](https://skillicons.dev/icons?i=discord)](https://discord.com/users/iv4n9f)
