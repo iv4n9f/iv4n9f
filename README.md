@@ -1,6 +1,8 @@
 <h1 align="center"> Ivan Garcia Fernandez </h1>
 <h2 align="center"> Multiplatform Software Developer | Systems & Network Technician </h2>
 
+![Author](https://img.shields.io/badge/author-iv4n9f-purple)
+
 > [!NOTE]
 > All of this information may change over time. For any questions, you can contact me in the contact section.
 
