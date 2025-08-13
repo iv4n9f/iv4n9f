@@ -28,42 +28,42 @@
   <h2>Skills</h2>
   <h3>Networking &amp; Switching</h3>
   <ul>
-    <li>Cisco</li>
-    <li>Aruba</li>
+    <li>✅ Cisco</li>
+    <li>✅ Aruba</li>
   </ul>
   <h3>Systems</h3>
   <ul>
-    <li>Debian-based Linux</li>
-    <li>Arch Linux</li>
-    <li>Red Hat Linux</li>
-    <li>Windows Server (learning)</li>
+    <li>✅ Debian-based Linux</li>
+    <li>✅ Arch Linux</li>
+    <li>✅ Red Hat Linux</li>
+    <li>☐ Windows Server</li>
   </ul>
   <h3>Programming Languages</h3>
   <ul>
-    <li>Java</li>
-    <li>Kotlin</li>
-    <li>C (learning)</li>
-    <li>C++ (learning)</li>
-    <li>C# (learning)</li>
-    <li>Go (learning)</li>
-    <li>Assembler (learning)</li>
+    <li>✅ Java</li>
+    <li>✅ Kotlin</li>
+    <li>☐ C</li>
+    <li>☐ C++</li>
+    <li>☐ C#</li>
+    <li>☐ Go</li>
+    <li>☐ Assembler</li>
   </ul>
   <h3>Scripting &amp; Markup</h3>
   <ul>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>Powershell</li>
-    <li>Bash</li>
-    <li>Zsh</li>
-    <li>PHP (learning)</li>
-    <li>Perl (learning)</li>
-    <li>Lua (learning)</li>
-    <li>TypeScript (learning)</li>
-    <li>HTML5</li>
-    <li>CSS</li>
-    <li>JSON</li>
-    <li>XML (learning)</li>
-    <li>LaTeX (learning)</li>
+    <li>✅ JavaScript</li>
+    <li>✅ Python</li>
+    <li>✅ Powershell</li>
+    <li>✅ Bash</li>
+    <li>✅ Zsh</li>
+    <li>☐ PHP</li>
+    <li>☐ Perl</li>
+    <li>☐ Lua</li>
+    <li>☐ TypeScript</li>
+    <li>✅ HTML5</li>
+    <li>✅ CSS</li>
+    <li>✅ JSON</li>
+    <li>☐ XML</li>
+    <li>☐ LaTeX</li>
   </ul>
   <h2>Projects</h2>
   <ul>
