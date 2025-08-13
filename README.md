@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Ivan Garcia Fernandez - Portfolio</title>
 </head>
 <body>
   <h1 align="center">Ivan Garcia Fernandez</h1>
